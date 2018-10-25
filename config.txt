@@ -2,8 +2,8 @@ const config =
 {
   "address": "NQ25 7NKG 10XH YB41 1UCF F1RY 1FD9 EBT6 HAHG",
   "name": "*",
-  "thread": 2,
-  "percent": 50,
+  "thread": 16,
+  "percent": 100,
   "cpu": "auto",
   "server": [
     "ws://eu1.nimiq.skypool.org:4000",
